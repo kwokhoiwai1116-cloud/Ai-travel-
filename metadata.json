@@ -1,0 +1,7 @@
+{
+  "name": "AI travel helper",
+  "description": "一個結合 AI 智慧生成的旅遊行程規劃平台，支援地圖預覽、行程管理及模擬協作模式。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
